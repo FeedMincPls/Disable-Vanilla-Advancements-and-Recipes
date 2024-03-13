@@ -1,4 +1,4 @@
-#### English / [简体中文](https://github.com/FeedMincPls/Disable-Vanilla-Advancements-and-Recipes/blob/main/README-zh_Hans.md)
+#### English / [简体中文](https://github.com/FeedMincPls/Disable-Vanilla-Advancements-and-Recipes/blob/main/README-zh-Hans.md)
 
 # Install
 1. Place datapack into ".minecraft/saves/(world name)/datapacks"
