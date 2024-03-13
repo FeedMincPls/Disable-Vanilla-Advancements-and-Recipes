@@ -1,3 +1,5 @@
+#### [English](https://github.com/FeedMincPls/Disable-Vanilla-Advancements-and-Recipes/blob/main/README.md) / 简体中文
+
 # 安装
 1. 将数据包放入".minecraft/saves/(世界名称)/datapacks"
 2. 重启游戏（服务端）或输入命令'/reload'
