@@ -7,4 +7,4 @@
 1. Close the game(server) and remove datapack
 2. Restart the game(server) and enter the command "/datapack enable vanilla"
 # Attention
-Since game version 1.19, the regular version of this datapack may cause compatibility issues with datapacks that use the "minecraft" namespace to add advancements or recipes. If you encounter such issues, consider using the "Disable_Vanilla_C" branch version of this data pack
+Since game version 1.19, the regular version of this datapack may cause compatibility issues with datapacks that use the "minecraft" namespace to add advancements or recipes. If you encounter such issues, consider using the branch version "Disable_Vanilla_C"
