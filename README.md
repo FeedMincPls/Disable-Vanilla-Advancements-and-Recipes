@@ -7,4 +7,4 @@
 1. Close the game(server) and remove datapack
 2. Restart the game(server) and enter the command "/reload"
 # Attention
-Since game version 1.19, a lightweight branch version "Disable_Vanilla_Lite" has been released. This version may encounter compatibility issues with datapacks use the "minecraft" namespace to add advancements or recipes. If you encounter such issues, please use the regular version.
+Since game version 1.19, a lightweight branch version "Disable_Vanilla_Lite" will be released. This version has a smaller file size, but may encounter compatibility issues with datapacks use the "minecraft" namespace to add advancements or recipes. If you encounter such issues, please use the regular version.
