@@ -2,9 +2,9 @@
 
 # Install
 1. Place datapack into ".minecraft/saves/(world name)/datapacks"
-2. Restart the game(server) or enter the command "/reload"
+2. Enter the command "/reload"
 # Uninstall
 1. Close the game(server) and remove datapack
-2. Restart the game(server) and enter the command "/datapack enable vanilla"
+2. Restart the game(server) and enter the command "/reload"
 # Attention
-Since game version 1.19, the regular version of this datapack may cause compatibility issues with datapacks that use the "minecraft" namespace to add advancements or recipes. If you encounter such issues, consider using the branch version "Disable_Vanilla_C"
+Since game version 1.19, a lightweight branch version "Disable_Vanilla_Lite" has been released. This version may encounter compatibility issues with datapacks use the "minecraft" namespace to add advancements or recipes. If you encounter such issues, please use the regular version.
